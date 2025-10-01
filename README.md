@@ -1,4 +1,4 @@
-# The Savory Spoon — Restaurant Landing Page
+# BORCELLE restaurant — Fine dining & comfort food
 
 **Stack:** HTML, CSS, JavaScript, Bootstrap (no frameworks)
 
