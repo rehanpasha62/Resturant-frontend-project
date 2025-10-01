@@ -30,11 +30,11 @@ Swap images in `assets/images/` with real photos keeping the same file names, or
 ## Credits
 Bootstrap (CDN), and placeholder images included.
 
-# Project Title
+# BORCELLE restaurant — Fine dining & comfort food
 
 ## 📸 Screenshots
 
 Here’s a preview of the project:
 
-![Project Screenshot](assets/images/BORCELLE restaurant — Fine dining & comfort food.png)
+![Project Screenshot](assets/images/BORCELLErestaurant.png)
 
